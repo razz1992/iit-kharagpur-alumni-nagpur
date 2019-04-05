@@ -1,0 +1,32 @@
+{
+  "name": "iit-kharagpur-alumni-nagpur",
+  "version": "1.0.0",
+  "description": "This site is meant to associate all IIT kharagur alumni across Nagpur region",
+  "main": "app.js",
+  "keywords": [
+    "iit",
+    "kharagpur",
+    "iit-kharagpur-alumni-nagpur",
+    "iit-kharagpur-alumni",
+    "iit-kgp"
+  ],
+  "author": "rajaneesh",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js",
+    "pretest": "",
+    "test": "",
+    "test-contract": "",
+    "test-no-coverage": "",
+    "lint": "",
+    "lint-checkstyle-XML-log": "",
+    "posttest": ""
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "8.11.1"
+  }
+}
