@@ -1,0 +1,1 @@
+$(window).resize(function(){var o=$("#current-page").height(),t=$(window).height(),e=$("footer").height()+100,i=$("#current-page").offset().top;i+o+e<t?($("footer").css({position:"absolute"}),$("footer").css({bottom:0})):$("footer").css({position:"relative"})});
