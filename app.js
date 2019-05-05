@@ -18,6 +18,6 @@ app
   .get('/giveback-page', (req, res) => res.render('pages/giveback'))
   .get('/site-developement', (req, res) => res.render('pages/site-developement'))
 
-  .listen(PORT, () => console.log(`Listening on port : ${ PORT }`))
+  .listen(PORT, () => console.log(`Server is listening on port : ${ PORT }`))
 
 
